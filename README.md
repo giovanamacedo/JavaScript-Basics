@@ -31,7 +31,7 @@ Repositório para as aulas, atividades e desafios realizados no curso.
         <tr>
             <td align="center">3</td>
             <td>Operadores</td>
-            <td align="center">2/12 ⌛</td>
+            <td align="center">6/12 ⌛</td>
         </tr>
     </tbody>
 </table>
