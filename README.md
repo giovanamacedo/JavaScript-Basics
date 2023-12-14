@@ -31,7 +31,12 @@ Repositório para as aulas, atividades e desafios realizados no curso.
         <tr>
             <td align="center">3</td>
             <td>Operadores</td>
-            <td align="center">6/12 ⌛</td>
+            <td align="center">12/12 ⌛</td>
+        </tr>
+        <tr>
+            <td align="center">4</td>
+            <td>Controle de Fluxo</td>
+            <td align="center">1/20 ⌛</td>
         </tr>
     </tbody>
 </table>
